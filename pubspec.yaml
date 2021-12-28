@@ -1,0 +1,18 @@
+name: haml
+version: 0.0.2-dev
+author: Kevin Moore <kevin@thinkpixellab.com>
+description: Haml for Dart
+homepage: https://github.com/kevmoo/haml.dart
+environment:
+  sdk: '>=0.5.11+1'
+dependencies:
+  bot: '>=0.20.1'
+  bot_io: '>=0.21.0+2'
+  js: '>=0.0.22'
+  logging: '>=0.4.5+1'
+  meta: '>=0.4.5+1'
+  pathos: '>=0.4.5+1'
+  petitparser: '>=0.4.3'
+dev_dependencies:
+  browser: '>=0.5.0+1'
+  hop: '>=0.22.2'
